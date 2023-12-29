@@ -20,8 +20,10 @@ body{
 .erol{
     display: inline-block;
     margin: 0px 210px;
-    
-   
+}
+.again{
+     display: inline-block;
+    margin: 0px 210px;
 }
 
 .tu{
