@@ -1,6 +1,7 @@
 body{
     text-align: center;
     background-color: blanchedalmond;
+
 } 
 
 img {
@@ -15,13 +16,14 @@ h1{
 }
 .erol{
     display: inline-block;
-    margin: 0px 210px;
+    
 }
 .eroor{
-    width: 190px;
+    margin: auto;
+    width: 180px;
     padding:20px ;
     padding: rgb(81, 0, 255);
-      border: 8px dashed rgb(31, 16, 126);
+      border: 7px dashed rgba(106, 106, 106, 0.796);
       color: rgb(173, 18, 116);
       background-color: antiquewhite;
 }
