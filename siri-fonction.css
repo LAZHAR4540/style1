@@ -1,7 +1,12 @@
 body{
     text-align: center;
     background-color: blanchedalmond;
+} 
+
+img {
+    width: 50%;
 }
+
 
 
 h1{
@@ -14,8 +19,8 @@ h1{
 .eroor{
     width: 190px;
     padding:20px ;
-    padding: red;
-      border: 8px solid rgb(8, 6, 22);
+    padding: rgb(81, 0, 255);
+      border: 8px dashed rgb(31, 16, 126);
       color: rgb(173, 18, 116);
       background-color: antiquewhite;
 }
