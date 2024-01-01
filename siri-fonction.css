@@ -1,4 +1,21 @@
-h1{
-    color: yellow;
+body{
     text-align: center;
+    background-color: blanchedalmond;
+}
+
+
+h1{
+    color: rgb(85, 12, 136);
+}
+.erol{
+    display: inline-block;
+    margin: 0px 210px;
+}
+.eroor{
+    width: 190px;
+    padding:20px ;
+    padding: red;
+      border: 8px solid rgb(8, 6, 22);
+      color: rgb(173, 18, 116);
+      background-color: antiquewhite;
 }
