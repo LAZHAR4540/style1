@@ -1,7 +1,11 @@
-
+body{
+    margin: 0 auto; 
+   text-align: center;
+}
+img {
+    border: solid;
+}
 h1{
     color: aqua;
     margin: auto;
-    text-align: center;
-
 }
